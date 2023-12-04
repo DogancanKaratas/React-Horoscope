@@ -26,8 +26,8 @@ Bu projeyi çalıştırmak için aşağıdaki araçların yüklü olması gerekm
    ```bash
    git clone https://github.com/your-username/react-horoscope-app.git
 
-   ## İletişim
-
+  
+ ## İletişim
 - Yazar: [Doğancan KARATAŞ]
 - LinkedIn: [https://www.linkedin.com/in/dogancan-karatas/]
 - E-posta: [karatasdgncn21@gmail.com]
